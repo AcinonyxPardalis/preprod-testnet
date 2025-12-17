@@ -6,5 +6,5 @@ keys/
 *.addr
 *.signed
 dist-newstyle/
-'run the node web page'/
+run the node web page/
 tx-raw-files
