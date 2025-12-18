@@ -1,6 +1,6 @@
 db/
 node.socket
-keys/
+keys/*
 *.skey
 *.vkey
 *.addr
@@ -8,3 +8,4 @@ keys/
 dist-newstyle/
 run the node web page/
 tx-raw-files
+!private/docs/ !private/docs/**
