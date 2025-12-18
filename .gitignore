@@ -8,5 +8,6 @@ keys/*
 dist-newstyle/
 run the node web page/
 tx-raw-files
+!keys/
 !keys/private/docs/ 
 !keys/private/docs/**
