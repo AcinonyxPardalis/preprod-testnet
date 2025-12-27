@@ -3,7 +3,7 @@ node.socket
 keys/*
 dist-newstyle/
 run the node web page/
-tx-raw-files
+tx-raw-files/
 !keys/
 !keys/dummy-keys/ 
 !keys/dummy-keys/**
