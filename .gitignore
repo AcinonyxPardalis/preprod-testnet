@@ -1,10 +1,8 @@
 db/
 node.socket
 keys/*
-dist-newstyle/
-run the node web page/
-tx-raw-files/
+scripts/tx-temp-files/
 !keys/
-!keys/dummy-keys/ 
-!keys/dummy-keys/**
+!keys/demo-keys/ 
+!keys/demo-keys/**
 preview2-salvage/
