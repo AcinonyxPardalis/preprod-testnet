@@ -1,10 +1,8 @@
 db/
 node.socket
-keys/
-*.skey
-*.vkey
-*.addr
-*.signed
-dist-newstyle/
-run the node web page/
-tx-raw-files
+keys/*
+scripts/tx-temp-files/
+!keys/
+!keys/demo-keys/ 
+!keys/demo-keys/**
+preview2-salvage/
